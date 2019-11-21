@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WizzAir Checker", "WizzAir Checker\WizzAir Checker.csproj", "{566F85BB-5DB0-4533-87EA-DEF785C45F39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger Viewer", "Logger Viewer\Logger Viewer.csproj", "{E1D8E831-C46B-4E21-873B-6D475AD8BB99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566F85BB-5DB0-4533-87EA-DEF785C45F39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566F85BB-5DB0-4533-87EA-DEF785C45F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566F85BB-5DB0-4533-87EA-DEF785C45F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566F85BB-5DB0-4533-87EA-DEF785C45F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1D8E831-C46B-4E21-873B-6D475AD8BB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D8E831-C46B-4E21-873B-6D475AD8BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D8E831-C46B-4E21-873B-6D475AD8BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D8E831-C46B-4E21-873B-6D475AD8BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3005B86B-0E2C-40AE-91F0-8C7B1F2A7F09}
+	EndGlobalSection
+EndGlobal
